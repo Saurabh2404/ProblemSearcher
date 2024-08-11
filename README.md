@@ -19,7 +19,7 @@ Forgot the question name of a particular website? No worries! Go to our website,
 
     ```bash
     git clone https://github.com/Saurabh2404/ProblemSearcher.git
-    ```
+    ``
 
 2. **Install dependencies:**
 
